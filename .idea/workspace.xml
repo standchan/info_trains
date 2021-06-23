@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ee22a2d-9d71-4bab-82c9-cff39241d333" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qJzNKgodw2GxVFLRT4SPSoaAyC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\info_trains\TrainInfo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.spider">
+    <configuration name="huochepiao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="info_trains" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TrainInfo/TrainInfo/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainInfo/TrainInfo/spiders/huochepiao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="info_trains" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TrainInfo/SpiderBySelenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainInfo/SpiderBySelenium/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlConnect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="info_trains" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TrainInfo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainInfo/sqlConnect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testRequest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="info_trains" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TrainInfo/TrainInfo/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TrainInfo/TrainInfo/test/testRequest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.sqlConnect" />
+        <item itemvalue="Python.testRequest" />
+        <item itemvalue="Python.huochepiao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ee22a2d-9d71-4bab-82c9-cff39241d333" name="Default Changelist" comment="" />
+      <created>1616812439604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616812439604</updated>
+    </task>
+    <task id="LOCAL-00001" summary="同步">
+      <created>1624093204898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624093204898</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="同步" />
+    <option name="LAST_COMMIT_MESSAGE" value="同步" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616812639398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="335" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616812639398" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617007518184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617007518184" />
+    <state x="558" y="90" key="CommitChangelistDialog2" timestamp="1624093203972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="90" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1624093203972" />
+    <state width="1122" height="333" key="GridCell.Tab.0.bottom" timestamp="1624092913907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1122" height="333" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624092913907" />
+    <state width="1122" height="333" key="GridCell.Tab.0.center" timestamp="1624092913907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1122" height="333" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624092913907" />
+    <state width="1122" height="333" key="GridCell.Tab.0.left" timestamp="1624092913907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1122" height="333" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624092913907" />
+    <state width="1122" height="333" key="GridCell.Tab.0.right" timestamp="1624092913907">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1122" height="333" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624092913907" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1617788575469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617788575469" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1617788575469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617788575469" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1617788575469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617788575469" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1617788575469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617788575469" />
+    <state x="424" y="216" key="SettingsEditor" timestamp="1624092912407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="216" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1624092912407" />
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2" timestamp="1624093223755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1624093223755" />
+    <state x="602" y="335" key="git4idea.merge.GitPullDialog" timestamp="1616812497425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="602" y="335" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1616812497425" />
+    <state x="1171" y="492" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1617082437305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1171" y="492" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617082437305" />
+  </component>
+</project>
